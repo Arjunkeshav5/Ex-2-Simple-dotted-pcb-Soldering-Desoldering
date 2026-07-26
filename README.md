@@ -33,4 +33,5 @@ Avoid creating solder bridges between adjacent holes unless they are meant to be
 If the LED doesn't light, reverse its orientation and check your solder joints.
 
 **Output**
-Upload your final Soldered board image in final board assembly file link
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/b5d5d8e3-2d50-416f-9b78-56a76e947454" />
+
